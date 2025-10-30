@@ -13,7 +13,7 @@ public class CostumeShop {
     while (!salir){
       System.out.println("""
           ╔══════════════════════════════════════════════╗
-          ║                🕸️ MENÚ PRINCIPAL              ║
+          ║                🕸️ MENÚ PRINCIPAL             ║
           ╟──────────────────────────────────────────────╢
           ║ 0 - Finaliza el programa                     ║
           ║ 1 - Crea un Producto                         ║
